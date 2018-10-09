@@ -3,7 +3,7 @@ Upstream-Name: com.github.rkoesters.xkcd-gtk
 Source: https://github.com/rkoesters/xkcd-gtk
 
 Files: *
-Copyright: 2017 Ryan Koesters
+Copyright: 2018 Ryan Koesters
 License: GPL-3.0+
 
 License: GPL-3.0+

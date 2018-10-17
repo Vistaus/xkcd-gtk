@@ -1,5 +1,5 @@
-com.github.rkoesters.xkcd-gtk (0.9.9) precise; urgency=low
+com.github.rkoesters.xkcd-gtk (1.0.0) bionic; urgency=low
 
-  * Initial AppCenter release.
+  * First stable release
 
- -- Ryan Koesters <rmkoesters@gmail.com>  Mon, 19 Feb 2018 12:35:00 -0600
+ -- Ryan Koesters <rmkoesters@gmail.com>  Wed, 17 Oct 2018 01:59:00 -0600

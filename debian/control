@@ -14,4 +14,4 @@ Package: com.github.rkoesters.xkcd-gtk
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Comic Sticks
- xkcd-gtk is a xkcd comic viewer written in Go.
+ Comic Sticks (xkcd-gtk) is a simple xkcd comic viewer written in Go using GTK+3.

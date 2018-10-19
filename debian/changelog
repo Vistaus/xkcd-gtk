@@ -1,5 +1,5 @@
-com.github.rkoesters.xkcd-gtk (1.0.0) bionic; urgency=low
+com.github.rkoesters.xkcd-gtk (1.0.1) bionic; urgency=low
 
-  * First stable release
+  * Update OARS metadata
 
- -- Ryan Koesters <rmkoesters@gmail.com>  Wed, 17 Oct 2018 01:59:00 -0600
+ -- Ryan Koesters <rmkoesters@gmail.com>  Wed, 19 Oct 2018 15:36:00 -0600

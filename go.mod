@@ -8,5 +8,5 @@ require (
 	github.com/gotk3/gotk3 v0.6.1
 	github.com/rkoesters/xdg v0.0.1
 	github.com/rkoesters/xkcd v1.4.0
-	go.etcd.io/bbolt v1.3.6
+	go.etcd.io/bbolt v1.3.7
 )

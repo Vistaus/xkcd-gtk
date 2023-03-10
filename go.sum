@@ -74,8 +74,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rkoesters/xdg v0.0.1 h1:RmfYxghVvIsb4d51u5LtNOcwqY5r3P44u6o86qqvBMA=
 github.com/rkoesters/xdg v0.0.1/go.mod h1:5DcbjvJkY00fIOKkaBnylbC/rmc1NNJP5dmUcnlcm7U=
-github.com/rkoesters/xkcd v1.4.0 h1:jwsSyQ10Nf1DXMglpxp6zit96fYJfRtCnfRi+Z5buHw=
-github.com/rkoesters/xkcd v1.4.0/go.mod h1:5iEOeKErxx2ZR+6IImYYknaG9a+yNj8ATS4rBoghrNQ=
+github.com/rkoesters/xkcd v1.4.1 h1:+nXYEsarX1bcDxWyb1zOTeqx4Zp+YrdzFKMtdC2twSw=
+github.com/rkoesters/xkcd v1.4.1/go.mod h1:5iEOeKErxx2ZR+6IImYYknaG9a+yNj8ATS4rBoghrNQ=
 github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
 github.com/spf13/cast v1.3.0/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=

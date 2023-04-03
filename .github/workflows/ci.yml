@@ -118,7 +118,7 @@ jobs:
         with:
           platforms: arm64
 
-      - uses: flatpak/flatpak-github-actions/flatpak-builder@v5
+      - uses: flatpak/flatpak-github-actions/flatpak-builder@v6
         with:
           manifest-path: flatpak/${{ matrix.repo }}.yml
           repository-name: ${{ matrix.repo }}
@@ -138,7 +138,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - uses: flatpak/flatpak-github-actions/flatpak-builder@v5
+      - uses: flatpak/flatpak-github-actions/flatpak-builder@v6
         with:
           manifest-path: com.github.rkoesters.xkcd-gtk.yml
           repository-name: appcenter
